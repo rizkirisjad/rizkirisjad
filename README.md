@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! Nice to see you 👋
+
+![Github Profile Header](img/github-header-banner.png)
 
 <!--
 **rizkirisjad/rizkirisjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
